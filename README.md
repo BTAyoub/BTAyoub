@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @BTAyoub
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning linux
-- 💞️ I’m looking to collaborate on anonymous
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning Linux
+- 💞️ I’m looking to collaborate on Anonymous
 - 📫 How to reach me ayoubbentaherr1@gmail.com
-- 😄 Pronouns: ...
+- 💬 Ask me about Problem Solving
 - ⚡ Fun fact: ...
 
 <!---
